@@ -10,6 +10,7 @@ to ensure the dashboard runs correctly, follow these steps:
    * at the bottom of the **general** tab, check the box that says **unblock**.
    * click **apply** and **ok**.
 3. **run** the application.
+4. ooor just run the batch file that i included in there
 
 
 > [!important]  
