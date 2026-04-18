@@ -20,8 +20,8 @@ to ensure the dashboard runs correctly, follow these steps:
 
 ### features
 * **optimized performance:** zero bloat, rust-powered backend.
-* **modern ui:** mica/acrylic transparency effects for a native windows 11 feel.
-* **all-in-one:** manage, toggle, and monitor your automation tasks from one hub.
+* **auto fill-in:** automatically closes brackets and quotes.
+* **luasense:** real-time code suggestions.
 
 ### requirements
 * **os:** windows 10/11 (64-bit)
