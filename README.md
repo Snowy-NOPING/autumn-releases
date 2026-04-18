@@ -19,7 +19,7 @@ to ensure the dashboard runs correctly, follow these steps:
 * **modern ui:** mica/acrylic transparency effects for a native windows 11 feel.
 * **all-in-one:** manage, toggle, and monitor your automation tasks from one hub.
 
-### 🛠 requirements
+### requirements
 * **os:** windows 10/11 (64-bit)
 * **permissions:** user-level
 
