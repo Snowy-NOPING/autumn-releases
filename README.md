@@ -14,6 +14,7 @@ to ensure the dashboard runs correctly, follow these steps:
 
 > [!important]  
 > if you skip the unblock step, windows smartscreen may prevent the installer from functioning.
+
 > [!tip]
 > why is this blocked? because i'm not paying microsoft $500 for a stupid certificate. Code's clean.
 
