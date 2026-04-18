@@ -11,8 +11,11 @@ to ensure the dashboard runs correctly, follow these steps:
    * click **apply** and **ok**.
 3. **run** the application.
 
+
 > [!important]  
-> if you skip the unblock step, windows smartscreen may prevent the app from functioning or accessing required network resources for your scripts.
+> if you skip the unblock step, windows smartscreen may prevent the installer from functioning.
+> [!tip]
+> why is this blocked? because i'm not paying microsoft $500 for a stupid certificate. Code's clean.
 
 ### features
 * **optimized performance:** zero bloat, rust-powered backend.
